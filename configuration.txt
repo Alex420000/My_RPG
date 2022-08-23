@@ -1,0 +1,14 @@
+                **********
+                * MY RPG *
+                **********
+
+Welcome in World of Warcraft Not Classic !
+It's a little RPG game, your goal is to complete the main quest.
+You can move with Up/Right/Down/Left arrows, interact with E,
+attack with SPACE.
+You have lots of menu like skill tree with K, pause menu with M,
+inventory with I.
+You have lots of options to configure the game like sound, screen size...
+You can edit the map with our editor.
+
+Complete the quest, kill ennemies, and begin the savior of WoW Not Classic !
