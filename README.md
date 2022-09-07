@@ -1,7 +1,12 @@
 # My_RPG
-This project is one of the coolest and biggest project of my first year. Create your own RPG. The goal of the project is to create an authentic RPG. Your goal is to implement as many things as possible so that your RPG is as stylish as possible. 😁
 
-We got the best grade either A
+This project is one of the coolest and biggest project of my first year. 😎
+
+The goal of the project is to create an authentic RPG. 😃
+
+Your goal is to implement as many things as possible so that your RPG is as stylish as possible. 😁
+
+We got the best grade either A 👀
 
 ## Installation ⚡
 ⚠️ This project requires CSFML 2.6.0 to run.
