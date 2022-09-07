@@ -1,5 +1,5 @@
 # My_RPG
-This project is one of the coolest and biggest projects of your first year. Create your own RPG. The goal of the project is to create an authentic RPG. Your goal is to implement as many things as possible so that your RPG is as stylish as possible. 😁
+This project is one of the coolest and biggest project of my first year. Create your own RPG. The goal of the project is to create an authentic RPG. Your goal is to implement as many things as possible so that your RPG is as stylish as possible. 😁
 
 We got the best grade either A
 
