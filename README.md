@@ -20,7 +20,7 @@ We got the best grade either A 👀
 ## Marks 👍
 | Rank | Marks |
 |-----------|-----------|
-| Total Average | 130 / 200 |
+| Total Average | 200 / 200 |
 
 ## Teams 🙌
 * Alexis Barthelemy
