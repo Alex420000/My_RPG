@@ -21,9 +21,3 @@ We got the best grade either A 👀
 | Rank | Marks |
 |-----------|-----------|
 | Total Average | 200 / 200 |
-
-## Teams 🙌
-* Alexis Barthelemy
-* Antoine Fillaudeau
-* Valentin Woehrel
-* Oscar Deschamps
