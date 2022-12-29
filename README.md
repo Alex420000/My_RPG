@@ -16,8 +16,3 @@ We got the best grade either A 👀
 ## Run project ✔
 
 ```` ./my_rpg ````
-
-## Marks 👍
-| Rank | Marks |
-|-----------|-----------|
-| Total Average | 200 / 200 |
